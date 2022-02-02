@@ -1,0 +1,50 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#header{
+    background-color:rgb(56, 59, 83);
+}
+
+#nom{
+    text-align: center;
+    width:80%;
+    padding: 20px 20px 20px 20px;
+    color: white;
+}
+
+#poste{
+    text-align: center;
+    width:80%;
+    padding-bottom: 20px;
+    color: white;
+}
+
+#infosPersos{
+    padding-top: 20px;
+    background-color:rgb(233, 241, 234);
+}
+
+#parcours{
+    padding-top: 20px;
+}
+
+.rounded-circle{
+    height: 15px;
+    width: 15px;
+    border:solid 1px black;
+    margin-right: 4px;
+}
+
+h5{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.precision{
+    font-size: 0.8em;
+}
+.row.d-flex.justify-content-between{
+    padding-left: 10px;
+    padding-right: 10px;
+}
